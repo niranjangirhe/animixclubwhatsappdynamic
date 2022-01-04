@@ -1,0 +1,1 @@
+window.location.href="https://chat.whatsapp.com/IOcMAV0icpM9k3GCpo6pXD";
